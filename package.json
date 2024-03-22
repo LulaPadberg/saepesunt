@@ -1,0 +1,21 @@
+{
+  "name": "saepesunt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/LulaPadberg/saepesunt.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LulaPadberg/saepesunt.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.0",
+    "@typescript-eslint/parser": "^4.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0"
+  },
+  "author": "AnnabelleBartoletti",
+  "bugs": {
+    "url": "https://github.com/LulaPadberg/saepesunt.git/issues"
+  }
+}
